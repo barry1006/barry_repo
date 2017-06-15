@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello, world. Test git. This is Barry. modify\n");
+    printf("Hello, world. Test git. This is Barry. modify hello\n");
     return 0;
 }
